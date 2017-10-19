@@ -1,0 +1,27 @@
+{
+    "name": "kiyon/knox",
+    "description": "knox",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Kiyon Lin",
+            "email": "kiyonlin@163.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "~6.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Knox\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Tests\\": "tests/"
+        }
+    }
+}
