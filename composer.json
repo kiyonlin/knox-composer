@@ -1,6 +1,14 @@
 {
     "name": "kiyon/knox",
     "description": "knox",
+    "keywords": [
+        "time length"
+    ],
+    "support": {
+        "issues": "https://github.com/kiyonlin/knox/issues",
+        "source": "https://github.com/kiyonlin/knox"
+    },
+    "license": "MIT",
     "type": "library",
     "authors": [
         {
