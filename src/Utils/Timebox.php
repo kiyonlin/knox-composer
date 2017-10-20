@@ -2,7 +2,7 @@
 
 namespace Knox\Utils;
 
-class TimeLength
+class Timebox
 {
 
     private $second;
