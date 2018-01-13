@@ -1,12 +1,12 @@
 {
     "name": "kiyon/knox",
-    "description": "knox",
+    "description": "a personal php help package",
     "keywords": [
         "php", "tools", "time length"
     ],
     "support": {
-        "issues": "https://github.com/kiyonlin/knox/issues",
-        "source": "https://github.com/kiyonlin/knox"
+        "issues": "https://github.com/kiyonlin/knox-composer/issues",
+        "source": "https://github.com/kiyonlin/knox-composer"
     },
     "license": "MIT",
     "type": "library",
